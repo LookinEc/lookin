@@ -1,0 +1,13 @@
+*:{
+	font-family:Bebas Neue;
+}
+a:hover{
+	text-decoration:none;
+	color:yellow;
+	
+}
+a:link{
+	text-decoration:none;
+	color:black;
+}
+

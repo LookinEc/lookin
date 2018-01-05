@@ -1,0 +1,146 @@
+*{
+	margin:0px;
+	padding:0px;
+	color:black;
+	text-decoration:none;
+	font-family:Bebas Neue;
+	font-size:50px;
+}
+div#animacion{
+	background-image:url(../img/inicio/1.jpg);
+	width:304px;
+	height:402px;
+	margin:5px;
+}
+div#infoani{
+	width:304px;
+	height:402px;
+	background-color:rgba(255,255,0,0.6);
+	opacity:0;
+}
+div#animacion:hover div#infoani{
+	opacity:1;
+}
+
+
+div#branding{
+	background-image:url(../img/inicio/2.jpg);
+	width:304px;
+	height:402px;
+	margin:5px;
+}
+div#infobra{
+	width:304px;
+	height:402px;
+	background-color:rgba(255,255,0,0.6);
+	opacity:0;
+}
+div#branding:hover div#infobra{
+	opacity:1;
+}
+
+
+div#editorial{
+	background-image:url(../img/inicio/3.jpg);
+	width:304px;
+	height:402px;
+	margin:5px;
+}
+div#infoedi{
+	width:304px;
+	height:402px;
+	background-color:rgba(255,255,0,0.6);
+	opacity:0;
+}
+div#editorial:hover div#infoedi{
+	opacity:1;
+}
+
+
+
+div#fotografia{
+	background-image:url(../img/inicio/4.jpg);
+	width:304px;
+	height:402px;
+	margin:5px;
+}
+div#infofot{
+	width:304px;
+	height:402px;
+	background-color:rgba(255,255,0,0.6);
+	opacity:0;
+}
+div#fotografia:hover div#infofot{
+	opacity:1;
+}
+
+
+
+div#ilustracion{
+	background-image:url(../img/inicio/5.jpg);
+	width:304px;
+	height:402px;
+	margin:5px;
+}
+div#infoilu{
+	width:304px;
+	height:402px;
+	background-color:rgba(255,255,0,0.6);
+	opacity:0;
+}
+div#ilustracion:hover div#infoilu{
+	opacity:1;
+}
+
+
+
+div#noticias{
+	background-image:url(../img/inicio/6.jpg);
+	width:304px;
+	height:402px;
+	margin:5px;
+}
+div#infonot{
+	width:304px;
+	height:402px;
+	background-color:rgba(255,255,0,0.6);
+	opacity:0;
+}
+div#noticias:hover div#infonot{
+	opacity:1;
+}
+
+
+div#packing{
+	background-image:url(../img/inicio/7.jpg);
+	width:304px;
+	height:402px;
+	margin:5px;
+}
+div#infopac{
+	width:304px;
+	height:402px;
+	background-color:rgba(255,255,0,0.6);
+	opacity:0;
+}
+div#packing:hover div#infopac{
+	opacity:1;
+}
+
+
+
+div#tipografia{
+	background-image:url(../img/inicio/8.jpg);
+	width:304px;
+	height:402px;
+	margin:5px;
+}
+div#infotip{
+	width:304px;
+	height:402px;
+	background-color:rgba(255,255,0,0.6);
+	opacity:0;
+}
+div#tipografia:hover div#infotip{
+	opacity:1;
+}

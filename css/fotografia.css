@@ -1,0 +1,75 @@
+*{
+	margin:0px;
+	padding:0px;
+	color:black;
+	text-decoration:none;
+	font-family:Bebas Neue;
+	font-size:50px;
+}
+div#animal{
+	background-image:url(../img/inicio/fotografia/alejandroduran.jpg);
+	width:304px;
+	height:402px;
+	margin:5px;
+}
+div#infoani{
+	width:304px;
+	height:402px;
+	background-color:rgba(255,255,0,0.6);
+	opacity:0;
+}
+div#animal:hover div#infoani{
+	opacity:1;
+}
+
+
+div#plenty{
+	background-image:url(../img/inicio/fotografia/ernestoartillo.jpg);
+	width:304px;
+	height:402px;
+	margin:5px;
+}
+div#infobra{
+	width:304px;
+	height:402px;
+	background-color:rgba(255,255,0,0.6);
+	opacity:0;
+}
+div#plenty:hover div#infobra{
+	opacity:1;
+}
+
+
+div#teoria{
+	background-image:url(../img/inicio/fotografia/jaimesanchez.jpg);
+	width:304px;
+	height:402px;
+	margin:5px;
+}
+div#infoedi{
+	width:304px;
+	height:402px;
+	background-color:rgba(255,255,0,0.6);
+	opacity:0;
+}
+div#teoria:hover div#infoedi{
+	opacity:1;
+}
+
+
+
+div#vjsuave{
+	background-image:url(../img/inicio/fotografia/setsporno.jpg);
+	width:304px;
+	height:402px;
+	margin:5px;
+}
+div#infofot{
+	width:304px;
+	height:402px;
+	background-color:rgba(255,255,0,0.6);
+	opacity:0;
+}
+div#vjsuave:hover div#infofot{
+	opacity:1;
+}
